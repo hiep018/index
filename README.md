@@ -32,7 +32,7 @@
         <div class="row align-items-center bg-dark px-lg-5">
             <div class="col-lg-9">
                 <nav class="navbar navbar-expand-sm bg-dark p-0">
-                    <ul class="navbar-nav ml-n2">
+                    <!-- <ul class="navbar-nav ml-n2">
                         <li class="nav-item border-right border-secondary">
                             <a class="nav-link text-body small" href="#">Monday, January 1, 2045</a>
                         </li>
@@ -45,29 +45,18 @@
                         <li class="nav-item">
                             <a class="nav-link text-body small" href="#">Login</a>
                         </li>
-                    </ul>
+                    </ul> -->
                 </nav>
             </div>
             <div class="col-lg-3 text-right d-none d-md-block">
                 <nav class="navbar navbar-expand-sm bg-dark p-0">
                     <ul class="navbar-nav ml-auto mr-n2">
+                        
                         <li class="nav-item">
-                            <a class="nav-link text-body" href="#"><small class="fab fa-twitter"></small></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-body" href="#"><small class="fab fa-facebook-f"></small></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-body" href="#"><small class="fab fa-linkedin-in"></small></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-body" href="#"><small class="fab fa-instagram"></small></a>
+                            <a class="nav-link text-body" href="https://www.facebook.com/profile.php?id=100075552591311&locale=vi_VN"><small class="fab fa-facebook-f"></small></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-body" href="#"><small class="fab fa-google-plus-g"></small></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-body" href="#"><small class="fab fa-youtube"></small></a>
                         </li>
                     </ul>
                 </nav>
@@ -99,8 +88,7 @@
             <div class="collapse navbar-collapse justify-content-between px-0 px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav mr-auto py-0">
                     <a href="index.html" class="nav-item nav-link active">trang chủ</a>
-                    <a href="category.html" class="nav-item nav-link">chi tiết </a>
-                    <a href="single.html" class="nav-item nav-link">tin tức</a>
+                    <a href="single.html" class="nav-item nav-link"> Giới Thiệu </a>
                     <!-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
                         <div class="dropdown-menu rounded-0 m-0">
@@ -489,20 +477,14 @@
                     <!-- Tags Start -->
                     <div class="mb-3">
                         <div class="section-title mb-0">
-                            <h4 class="m-0 text-uppercase font-weight-bold">Tags</h4>
+                            <h4 class="m-0 text-uppercase font-weight-bold">Chuyển Trang </h4>
                         </div>
                         <div class="bg-white border border-top-0 p-3">
                             <div class="d-flex flex-wrap m-n1">
-                                <a href="index.htmlhtml" class="btn btn-sm btn-outline-secondary m-1">Trang chủ</a>
-                                <a href="" class="btn btn-sm btn-outline-secondary m-1">chi tiết </a>
-                                <a href="" class="btn btn-sm btn-outline-secondary m-1">tin tức mới</a>
-                                <a href="" class="btn btn-sm btn-outline-secondary m-1">Business</a>
-                                <a href="" class="btn btn-sm btn-outline-secondary m-1">Health</a>
-                                <a href="" class="btn btn-sm btn-outline-secondary m-1">Education</a>
-                                <a href="" class="btn btn-sm btn-outline-secondary m-1">Science</a>
-                                <a href="" class="btn btn-sm btn-outline-secondary m-1">Business</a>
-                                <a href="" class="btn btn-sm btn-outline-secondary m-1">Foods</a>
-                                <a href="" class="btn btn-sm btn-outline-secondary m-1">Travel</a>
+                                <a href="index.html" class="btn btn-sm btn-outline-secondary m-1">Trang chủ</a>
+                                <a href="single.html" class="btn btn-sm btn-outline-secondary m-1">Giới Thiệu</a>
+                                <a href="category.html" class="btn btn-sm btn-outline-secondary m-1">Tin Tức</a>
+                                <a href="contact.html" class="btn btn-sm btn-outline-secondary m-1">Liên Hệ</a>
                             </div>
                         </div>
                     </div>
@@ -519,7 +501,7 @@
         <div class="row py-4">
             <div class="col-lg-3 col-md-6 mb-5">
                 <h5 class="mb-4 text-white text-uppercase font-weight-bold">Đội TNXK-ANTT- PCCC - CNCH Phước Lộc </h5>
-                <p class="font-weight-medium"><i class="fa fa-map-marker-alt mr-2"></i>UBND Xã Phước Lộc-tuy Phước-Tỉnh Bình Định</p>
+                <p class="font-weight-medium"><i class="fa fa-map-marker-alt mr-2"></i>UBND Xã Phước Lộc-tuy Phước-Bình Định</p>
                 <p class="font-weight-medium"><i class="fa fa-phone-alt mr-2"></i>0931932114 -gọi khi cần hỗ trợ-</p>
                 <h6 class="mt-4 mb-3 text-white text-uppercase font-weight-bold">Theo Dỏi Đội</h6>
                 <div class="d-flex justify-content-start">
@@ -551,29 +533,12 @@
                 </div>
             </div> -->
             <div class="col-lg-3 col-md-6 mb-5">
-                <h5 class="mb-4 text-white text-uppercase font-weight-bold">di chuyển nhanh </h5>
+                <h5 class="mb-4 text-white text-uppercase font-weight-bold">Chuyển Trang NhanhNhanh </h5>
                 <div class="m-n1">
-                    <a href="index.html" class="btn btn-sm btn-secondary m-1">Trang chủ </a>
-                    <!-- <a href="" class="btn btn-sm btn-secondary m-1">Business</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Corporate</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Business</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Health</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Education</a> -->
-                    <!-- <a href="" class="btn btn-sm btn-secondary m-1">Science</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Business</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Foods</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Entertainment</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Travel</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Lifestyle</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Politics</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Business</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Corporate</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Business</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Health</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Education</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Science</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Business</a>
-                    <a href="" class="btn btn-sm btn-secondary m-1">Foods</a> -->
+                    <a href="index.html" class="btn btn-sm btn-outline-secondary m-1">Trang chủ</a>
+                    <a href="single.html" class="btn btn-sm btn-outline-secondary m-1">Giới Thiệu</a>
+
+                    <a href="contact.html" class="btn btn-sm btn-outline-secondary m-1">Liên Hệ</a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
@@ -583,7 +548,7 @@
                         <a href=""><img class="w-100" src="img/a26.jpg" alt=""></a>
                     </div>
                     <div class="col-4 mb-3">
-                        <a href=""><img class="w-100" src="img/a27.jpg" alt="" style="width: 100%; height: auto;"></a>
+                        <a href=""><img class="w-100" src="img/a27.jpg" alt="" style="width: 100%; height: 100px; object-fit: cover;"></a>
                     </div>                    
                     <div class="col-4 mb-3">
                         <a href=""><img class="w-100" src="img/a28.jpg" alt=""></a>
@@ -591,10 +556,10 @@
                     <div class="col-4 mb-3">
                         <a href=""><img class="w-100" src="img/a29.jpg" alt=""></a>
                     </div>
-                    <!-- <div class="col-4 mb-3">
-                        <a href=""><img class="w-100" src="img/news-110x110-5.jpg" alt=""></a>
-                    </div>
                     <div class="col-4 mb-3">
+                        <a href=""><img class="w-100" src="img/a30.jpg" alt=""style="width: 100%; height: 100px; object-fit: cover;"></a>
+                    </div>
+                    <!-- <div class="col-4 mb-3">
                         <a href=""><img class="w-100" src="img/news-110x110-1.jpg" alt=""></a>
                     </div> -->
                 </div>
